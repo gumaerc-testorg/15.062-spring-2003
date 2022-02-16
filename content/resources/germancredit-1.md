@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Case:  German Credit'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-062-data-mining-spring-2003/8646468adeb695d3135ea3acc7a564b6_GermanCredit.pdf
+file: /media/courses/15-062-data-mining-spring-2003/8646468adeb695d3135ea3acc7a564b6_GermanCredit.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: GermanCredit.pdf
 uid: 8646468a-deb6-95d3-135e-a3acc7a564b6

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Bond Rating Problem 1
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-062-data-mining-spring-2003/ddc2cb291a2d716dfd2b5d0528ee155c_romyBondRatingProb1.xls
+file: /media/courses/15-062-data-mining-spring-2003/ddc2cb291a2d716dfd2b5d0528ee155c_romyBondRatingProb1.xls
 file_type: application/msword
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: romyBondRatingProb1.xls
 uid: ddc2cb29-1a2d-716d-fd2b-5d0528ee155c
