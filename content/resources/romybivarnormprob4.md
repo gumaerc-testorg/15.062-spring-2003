@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ee304c61-388e-add6-95ce-0585400ebed0
 resourcetype: Other
 title: romyBiVarNormProb4.xls
 uid: 0fb5e4f7-16a9-f382-a09f-48b55a7a8bf7

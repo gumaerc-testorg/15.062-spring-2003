@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 07f6fc92-83da-6af9-685f-e4cb0ac80346
 resourcetype: Document
 title: Lecture1Slides.pdf
 uid: dba0f394-04db-ce3e-147a-7d4de381a384

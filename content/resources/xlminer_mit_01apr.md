@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: be2bd340-b911-8e30-454e-9da54b6d3148
 resourcetype: Other
 title: XLMiner_MIT_01Apr.exe
 uid: b1581ef8-4e50-4d81-d247-274bbf0e2835

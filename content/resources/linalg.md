@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: be2bd340-b911-8e30-454e-9da54b6d3148
 resourcetype: Document
 title: linalg.pdf
 uid: 14e01469-b2e5-b05e-a03c-0ca8272a80b7

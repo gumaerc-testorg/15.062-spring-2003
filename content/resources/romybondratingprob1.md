@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ee304c61-388e-add6-95ce-0585400ebed0
 resourcetype: Other
 title: romyBondRatingProb1.xls
 uid: ddc2cb29-1a2d-716d-fd2b-5d0528ee155c

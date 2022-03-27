@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ee304c61-388e-add6-95ce-0585400ebed0
 resourcetype: Document
 title: GermanCredit.pdf
 uid: 8646468a-deb6-95d3-135e-a3acc7a564b6
