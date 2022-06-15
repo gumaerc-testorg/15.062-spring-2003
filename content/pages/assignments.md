@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,7 +25,7 @@ Association of American Publishers. _Industry Statistics, 2002._
 
 ### Art History of Florence
 
-A new title, "The Art History of Florence", is ready for release. CBC has sent a test mailing to a random sample of 4,000 customers from its customer base. The customer responses have been collated with past purchase data. The data has been randomly partitioned into 3 parts- Training Data (1800 customers): initial data to be used to fit response models, Validation Data (1400 customers): hold-out data used to compare the performance of different response models, and Test Data (800 Customers): data only to be used after a final model has been selected to estimate the likely accuracy of the model when it is deployed. The Sample Data are in a separate spreadsheets**CBC\_4000.xls** ([XLS]({{< baseurl >}}/resources/cbc_4000)). Each row (or case) in the spreadsheet (other than the header) corresponds to one market test customer. Each column is a variable with the header row giving the name of the variable. The variable names and descriptions are given in Table 1, below:
+A new title, "The Art History of Florence", is ready for release. CBC has sent a test mailing to a random sample of 4,000 customers from its customer base. The customer responses have been collated with past purchase data. The data has been randomly partitioned into 3 parts- Training Data (1800 customers): initial data to be used to fit response models, Validation Data (1400 customers): hold-out data used to compare the performance of different response models, and Test Data (800 Customers): data only to be used after a final model has been selected to estimate the likely accuracy of the model when it is deployed. The Sample Data are in a separate spreadsheets**CBC\_4000.xls** ({{% resource_link dd3fa2c2-661e-0a34-78f4-b432cae160fa "XLS" %}}). Each row (or case) in the spreadsheet (other than the header) corresponds to one market test customer. Each column is a variable with the header row giving the name of the variable. The variable names and descriptions are given in Table 1, below:
 
 ### Table 1: List of Variables in CBC\_4000.xls
 
@@ -218,9 +219,9 @@ Number of related books purchased
 
 ### Problem 2: The German Credit Case
 
-Read the case and answer all the questions at the end ([PDF]({{< baseurl >}}/resources/germancredit-1))
+Read the case and answer all the questions at the end ({{% resource_link 8646468a-deb6-95d3-135e-a3acc7a564b6 "PDF" %}})
 
-German Credit Case Data ([XLS]({{< baseurl >}}/resources/germancredit))
+German Credit Case Data ({{% resource_link 3d0fbded-046c-53a5-fb72-d3bcd2064ac9 "XLS" %}})
 
 Homework 2
 ----------
@@ -229,7 +230,7 @@ Homework 2
 
 A common application of Discriminant Analysis is the classification of bonds into various bond rating classes. These ratings are intended to reflect the risk of the bond and influence the cost of borrowing for companies that issue bonds. Various financial ratios culled from annual reports are often used to help determine a company's bond rating.
 
-The Excel spreadsheet **BondRatingProb1.xls** ([XLS]({{< baseurl >}}/resources/romybondratingprob1))contains two sheets named Training data and Validation data. These are data from a sample of 95 companies selected from COMPUSTAT financial data tapes. The company bonds have been classified by Moody's Bond Ratings (1980) into seven classes of risk ranging from AAA, the safest, to C, the most risky. The data include ten financial variables for each company. These are:
+The Excel spreadsheet **BondRatingProb1.xls** ({{% resource_link ddc2cb29-1a2d-716d-fd2b-5d0528ee155c "XLS" %}})contains two sheets named Training data and Validation data. These are data from a sample of 95 companies selected from COMPUSTAT financial data tapes. The company bonds have been classified by Moody's Bond Ratings (1980) into seven classes of risk ranging from AAA, the safest, to C, the most risky. The data include ten financial variables for each company. These are:
 
 LOPMAR: Logarithm of the operating margin,  
 LFIXMAR: Logarithm of the pretax fixed charge coverage,  
@@ -256,7 +257,7 @@ Give true false answers to the following questions with one sentence to justify 
 
 ### Problem 3:
 
-The Excel spreadsheet **RegressionProb3.xls** ([XLS]({{< baseurl >}}/resources/romyregressionprob3)) contains two sheets named Training Data and Validation Data. We will use XLMiner to build two models with the training data and then use the validation data to compare their performance as prediction models.
+The Excel spreadsheet **RegressionProb3.xls** ({{% resource_link 4faf292a-364a-c988-57a0-4140a7aac0b4 "XLS" %}}) contains two sheets named Training Data and Validation Data. We will use XLMiner to build two models with the training data and then use the validation data to compare their performance as prediction models.
 
 1.  Fit a multiple regression model, Model1, to the training data using all the variables X1 through X9 (and the constant term). Call the coefficient vector for this model ß**1**.
 2.  Use the subset selection options in XLMiner to choose a model using only the training data. Call the coefficient vector for this model ß**2**.
@@ -265,7 +266,7 @@ The Excel spreadsheet **RegressionProb3.xls** ([XLS]({{< baseurl >}}/resources/r
 
 ### Problem 4:
 
-The Excel spreadsheet **NormalsProb4.xls** ([XLS]({{< baseurl >}}/resources/romybivarnormprob4)) contains 1000 observations with two groups (Group 0 and Group 1) and two variables (x and y).
+The Excel spreadsheet **NormalsProb4.xls** ({{% resource_link 0fb5e4f7-16a9-f382-a09f-48b55a7a8bf7 "XLS" %}}) contains 1000 observations with two groups (Group 0 and Group 1) and two variables (x and y).
 
 1.  Plot all the data points in a 2-dimensional scatter plot. Mark Group 1 points and Group 0 points differently (e.g., one with a 'x' and the other with 'o') so you can visualize the distribution of the points of each Group.
 2.  Partition the data into training and classification sets with 600 and 400 observations respectively.

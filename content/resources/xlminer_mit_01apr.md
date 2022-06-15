@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-062-data-mining-spring-2003/b1581ef84e504d81d247274bbf0e2835_XLMiner_MIT_01Apr.exe
+file: /courses/15-062-data-mining-spring-2003/b1581ef84e504d81d247274bbf0e2835_XLMiner_MIT_01Apr.exe
 file_type: application/x-ms-dos-executable
 learning_resource_types: []
 ocw_type: OCWFile
