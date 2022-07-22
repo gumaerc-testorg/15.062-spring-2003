@@ -5,6 +5,7 @@ file: /courses/15-062-data-mining-spring-2003/f89f20fe95a7a1993b5b8c6da9eb2e51_N
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: NeuralNet2002.pdf
 uid: f89f20fe-95a7-a199-3b5b-8c6da9eb2e51
 ---
 Lecture 6 - Artificial Neural Networks
-

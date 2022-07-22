@@ -5,6 +5,7 @@ file: /courses/15-062-data-mining-spring-2003/b54b49cafe5436a3ff1aa8907e0e86e0_l
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture4.pdf
 uid: b54b49ca-fe54-36a3-ff1a-a8907e0e86e0
 ---
 Lecture 4 - Discriminant Analysis
-

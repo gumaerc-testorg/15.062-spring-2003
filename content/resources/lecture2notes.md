@@ -5,6 +5,7 @@ file: /courses/15-062-data-mining-spring-2003/66389992bde3d94751f455b7d65845fb_L
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
