@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 07f6fc92-83da-6af9-685f-e4cb0ac80346
 ---
@@ -27,11 +31,11 @@ Data Sources
 {{< tdopen >}}
 
 
-Data Mining Overview ([PDF]({{< baseurl >}}/resources/lecture1slides))
+Data Mining Overview ({{% resource_link dba0f394-04db-ce3e-147a-7d4de381a384 "PDF" %}})
 
 Prediction and Classification with k-Nearest Neighbors
 
-Example 1: Riding Mowers ([PDF]({{< baseurl >}}/resources/knn3))
+Example 1: Riding Mowers ({{% resource_link c58922a0-bfc2-261e-c849-ebdbfdae9bf9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -51,7 +55,7 @@ Table 11.1 from page 584 of: Johnson, Richard, and Dean Wichern. _Applied Multiv
 {{< tdopen >}}
 
 
-Classification and Bayes Rule, Naïve Bayes ([PDF]({{< baseurl >}}/resources/lecture2notes))
+Classification and Bayes Rule, Naïve Bayes ({{% resource_link 66389992-bde3-d947-51f4-55b7d65845fb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -67,7 +71,7 @@ Classification and Bayes Rule, Naïve Bayes ([PDF]({{< baseurl >}}/resources/lec
 {{< tdopen >}}
 
 
-Classification Trees ([PDF]({{< baseurl >}}/resources/l3classtrees))
+Classification Trees ({{% resource_link d73c52cb-cfeb-19fe-e4bd-ddbe2be4f439 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -87,7 +91,7 @@ Classification Trees ([PDF]({{< baseurl >}}/resources/l3classtrees))
 {{< tdopen >}}
 
 
-Discriminant Analysis Example 2: Fisher's Iris data ([PDF]({{< baseurl >}}/resources/lecture4))
+Discriminant Analysis Example 2: Fisher's Iris data ({{% resource_link b54b49ca-fe54-36a3-ff1a-a8907e0e86e0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -107,9 +111,9 @@ Discriminant Analysis Example 2: Fisher's Iris data ([PDF]({{< baseurl >}}/resou
 {{< tdopen >}}
 
 
-Logistic Regression Case ([PDF]({{< baseurl >}}/resources/logreg))
+Logistic Regression Case ({{% resource_link a3f37cb1-dc01-a21d-d959-2d49df7dd6e4 "PDF" %}})
 
-Handlooms ([PDF]({{< baseurl >}}/resources/handloomsnew))
+Handlooms ({{% resource_link 083d7043-e7d3-e2e0-03d6-61018be20b31 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -123,7 +127,7 @@ Handlooms ([PDF]({{< baseurl >}}/resources/handloomsnew))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Neural Nets ([PDF]({{< baseurl >}}/resources/neuralnet2002))
+Neural Nets ({{% resource_link f89f20fe-95a7-a199-3b5b-8c6da9eb2e51 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -139,7 +143,7 @@ Neural Nets ([PDF]({{< baseurl >}}/resources/neuralnet2002))
 {{< tdopen >}}
 
 
-Discussion of homework - see Problem 1 in [assignments]({{< baseurl >}}/pages/assignments) section
+Discussion of homework - see Problem 1 in {{% resource_link ee304c61-388e-add6-95ce-0585400ebed0 "assignments" %}} section
 
 
 {{< tdclose >}}
@@ -155,7 +159,7 @@ Discussion of homework - see Problem 1 in [assignments]({{< baseurl >}}/pages/as
 {{< tdopen >}}
 
 
-Multiple Regression Review ([PDF]({{< baseurl >}}/resources/lecture8))
+Multiple Regression Review ({{% resource_link 3784d52a-6a45-ea92-f9e5-32e6658c70a9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -171,7 +175,7 @@ Multiple Regression Review ([PDF]({{< baseurl >}}/resources/lecture8))
 {{< tdopen >}}
 
 
-Multiple Linear Regression in Data Mining ([PDF]({{< baseurl >}}/resources/lecture9))
+Multiple Linear Regression in Data Mining ({{% resource_link f86ca18a-e6c7-65d3-2fa9-57759a629fd1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -189,9 +193,9 @@ Multiple Linear Regression in Data Mining ([PDF]({{< baseurl >}}/resources/lectu
 
 Regression Trees, Case: IBM/GM weekly returns
 
-Comparison of Data Mining Techniques ([PDF]({{< baseurl >}}/resources/comparison))
+Comparison of Data Mining Techniques ({{% resource_link c5ac242e-4323-5224-9ed4-1c23d9c5aacd "PDF" %}})
 
-Discussion of homework - see Problem 2 in [assignments]({{< baseurl >}}/pages/assignments) section
+Discussion of homework - see Problem 2 in {{% resource_link ee304c61-388e-add6-95ce-0585400ebed0 "assignments" %}} section
 
 
 {{< tdclose >}}
@@ -207,7 +211,7 @@ Discussion of homework - see Problem 2 in [assignments]({{< baseurl >}}/pages/as
 {{< tdopen >}}
 
 
-k-Means Clustering, Hierarchical Clustering ([PDF]({{< baseurl >}}/resources/lec11))
+k-Means Clustering, Hierarchical Clustering ({{% resource_link d83ccc1c-2377-ef7d-6477-568ca4c12c75 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -255,7 +259,7 @@ Midterm Exam
 {{< tdopen >}}
 
 
-Principal Components ([PDF]({{< baseurl >}}/resources/pclecture))
+Principal Components ({{% resource_link 32379717-c73e-60a8-6b22-02cf174c14f9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -293,7 +297,7 @@ Guest Lecture by Dr. Ira Haimowitz: Data Mining and CRM at Pfizer
 {{< tdopen >}}
 
 
-Association Rules (Market Basket Analysis) ([PDF]({{< baseurl >}}/resources/lecture_16))
+Association Rules (Market Basket Analysis) ({{% resource_link d286f7ed-a981-4013-2792-84c97f2f2a53 "PDF" %}})
 
 
 {{< tdclose >}}
