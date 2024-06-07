@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 1 - k-Nearest Neighbor Algorithms for Classification and Prediction
 file: /courses/15-062-data-mining-spring-2003/c58922a0bfc2261ec849ebdbfdae9bf9_knn3.pdf
+file_size: 98776
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

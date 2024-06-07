@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 3 - Classification Trees
 file: /courses/15-062-data-mining-spring-2003/d73c52cbcfeb19fee4bdddbe2be4f439_L3ClassTrees.pdf
+file_size: 119900
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

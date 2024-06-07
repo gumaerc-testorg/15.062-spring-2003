@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture #7'
 file: /courses/15-062-data-mining-spring-2003/a72fb95d8a8825d139c174bf2072d8df_lecture7.pdf
+file_size: 66737
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -78,7 +78,7 @@ Classification Trees ({{% resource_link d73c52cb-cfeb-19fe-e4bd-ddbe2be4f439 "PD
 {{< tdopen >}}
 
 
-"Housing Database (Boston)." Publicly available data at University of California, Irvine School of Information and Computer Science, {{% resource_link "d8f6dfd3-1eb3-4c1b-8ffa-0b1ab7af0218" "Machine Learning Repository of Databases" %}}.
+"Housing Database (Boston)." Publicly available data at University of California, Irvine School of Information and Computer Science, [Machine Learning Repository of Databases](http://www.ics.uci.edu/~mlearn/MLSummary.html).
 
 
 {{< tdclose >}}
@@ -98,7 +98,7 @@ Discriminant Analysis Example 2: Fisher's Iris data ({{% resource_link b54b49ca-
 {{< tdopen >}}
 
 
-"Iris Plant Database." Publicly available data at University of California, Irvine School of Information and Computer Science, {{% resource_link "d8f6dfd3-1eb3-4c1b-8ffa-0b1ab7af0218" "Machine Learning Repository of Databases" %}}.
+"Iris Plant Database." Publicly available data at University of California, Irvine School of Information and Computer Science, [Machine Learning Repository of Databases](http://www.ics.uci.edu/~mlearn/MLSummary.html).
 
 
 {{< tdclose >}}
@@ -268,7 +268,7 @@ Principal Components ({{% resource_link 32379717-c73e-60a8-6b22-02cf174c14f9 "PD
 
 Example 1, Head Measurements of Adult Sons: Rencher, Alvin. _Methods of Multivariate Analysis_. 2nd ed. Wiley-Interscience, 2002. Table 3.7, p. 79. ISBN: 0-471-46172-5.
 
-Example 2, Charactersitics of Wine: "Wine Recognition Database." Publicly available data at University of California, Irvine School of Information and Computer Science, {{% resource_link "d8f6dfd3-1eb3-4c1b-8ffa-0b1ab7af0218" "Machine Learning Repository of Databases" %}}.
+Example 2, Charactersitics of Wine: "Wine Recognition Database." Publicly available data at University of California, Irvine School of Information and Computer Science, [Machine Learning Repository of Databases](http://www.ics.uci.edu/~mlearn/MLSummary.html).
 
 
 {{< tdclose >}}
