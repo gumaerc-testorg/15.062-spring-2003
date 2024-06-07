@@ -2,6 +2,7 @@
 content_type: resource
 description: Mid Term Exam
 file: /courses/15-062-data-mining-spring-2003/4562f0d87e129f162e4e45c4487b4e57_midterm2003.pdf
+file_size: 21800
 file_type: application/pdf
 learning_resource_types:
 - Exams

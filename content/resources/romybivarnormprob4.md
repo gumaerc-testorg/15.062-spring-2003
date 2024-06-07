@@ -2,6 +2,7 @@
 content_type: resource
 description: Normals Problem 4
 file: /courses/15-062-data-mining-spring-2003/0fb5e4f716a9f382a09f48b55a7a8bf7_romyBiVarNormProb4.xls
+file_size: 2239488
 file_type: application/msword
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Multiple Linear Regression in Data Mining
 file: /courses/15-062-data-mining-spring-2003/f86ca18ae6c765d32fa957759a629fd1_lecture9.pdf
+file_size: 104076
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

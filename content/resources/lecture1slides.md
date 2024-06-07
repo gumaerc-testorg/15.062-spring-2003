@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Data Mining: Overview'
 file: /courses/15-062-data-mining-spring-2003/dba0f39404dbce3e147a7d4de381a384_Lecture1Slides.pdf
+file_size: 163720
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
