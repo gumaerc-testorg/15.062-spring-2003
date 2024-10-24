@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-062-data-mining-spring-2003/66389992bde3d94751f455b7d65845fb_Lecture2notes.pdf
+file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/66389992bde3d94751f455b7d65845fb_Lecture2notes.pdf
 file_size: 83896
 file_type: application/pdf
 learning_resource_types:

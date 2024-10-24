@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Multiple Linear Regression Review
-file: /courses/15-062-data-mining-spring-2003/3784d52a6a45ea92f9e532e6658c70a9_lecture8.pdf
+file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/3784d52a6a45ea92f9e532e6658c70a9_lecture8.pdf
 file_size: 112516
 file_type: application/pdf
 learning_resource_types:
