@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Recitation 1: XLMiner Tutorial'
-file: /courses/15-062-data-mining-spring-2003/8ad860919c5ec4dc4960ee8687ebd471_recitation1.pdf
+file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/8ad860919c5ec4dc4960ee8687ebd471_recitation1.pdf
 file_size: 37363
 file_type: application/pdf
 learning_resource_types: []
