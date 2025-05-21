@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sales of Handloom Saris - An Application of Logistic Regression
-file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/083d7043e7d3e2e003d661018be20b31_handloomsnew.pdf
+file: /courses/15-062-data-mining-spring-2003/083d7043e7d3e2e003d661018be20b31_handloomsnew.pdf
 file_size: 41784
 file_type: application/pdf
 learning_resource_types:

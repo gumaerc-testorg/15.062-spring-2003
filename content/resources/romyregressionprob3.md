@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Regression Problem 3
-file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/4faf292a364ac98857a04140a7aac0b4_romyRegressionProb3.xls
+file: /courses/15-062-data-mining-spring-2003/4faf292a364ac98857a04140a7aac0b4_romyRegressionProb3.xls
 file_size: 194560
 file_type: application/msword
 learning_resource_types:
