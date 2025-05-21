@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to association rules, apriori
   algorithm, shortcomings and extensions.
-file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/d286f7eda9814013279284c97f2f2a53_Lecture_16.pdf
+file: /courses/15-062-data-mining-spring-2003/d286f7eda9814013279284c97f2f2a53_Lecture_16.pdf
 file_size: 98146
 file_type: application/pdf
 learning_resource_types:

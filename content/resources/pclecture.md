@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Dimensionality Reduction: Principal Components Analysis'
-file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/32379717c73e60a86b2202cf174c14f9_PClecture.pdf
+file: /courses/15-062-data-mining-spring-2003/32379717c73e60a86b2202cf174c14f9_PClecture.pdf
 file_size: 195175
 file_type: application/pdf
 learning_resource_types:

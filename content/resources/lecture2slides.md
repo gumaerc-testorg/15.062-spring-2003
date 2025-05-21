@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Classification Trees
-file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/a8e971cad9f01a037ee332480c9c50da_Lecture2Slides.pdf
+file: /courses/15-062-data-mining-spring-2003/a8e971cad9f01a037ee332480c9c50da_Lecture2Slides.pdf
 file_size: 217447
 file_type: application/pdf
 learning_resource_types:
