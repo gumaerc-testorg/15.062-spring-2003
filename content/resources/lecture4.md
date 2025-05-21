@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 4 - Discriminant Analysis
-file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/b54b49cafe5436a3ff1aa8907e0e86e0_lecture4.pdf
+file: /courses/15-062-data-mining-spring-2003/b54b49cafe5436a3ff1aa8907e0e86e0_lecture4.pdf
 file_size: 93667
 file_type: application/pdf
 learning_resource_types:
