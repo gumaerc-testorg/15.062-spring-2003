@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: German Credit Case Data
-file: /courses/15-062-data-mining-spring-2003/3d0fbded046c53a5fb72d3bcd2064ac9_GermanCredit.xls
+file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/3d0fbded046c53a5fb72d3bcd2064ac9_GermanCredit.xls
 file_size: 247296
 file_type: application/msword
 learning_resource_types:

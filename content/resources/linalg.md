@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Algorithms and Applications - Matrix Math Review
-file: /courses/15-062-data-mining-spring-2003/14e01469b2e5b05ea03c0ca8272a80b7_linalg.pdf
+file: /ol-ocw-studio-app/courses/15-062-data-mining-spring-2003/14e01469b2e5b05ea03c0ca8272a80b7_linalg.pdf
 file_size: 170038
 file_type: application/pdf
 learning_resource_types: []
