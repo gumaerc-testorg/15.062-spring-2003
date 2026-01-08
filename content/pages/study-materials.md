@@ -10,7 +10,7 @@ uid: be2bd340-b911-8e30-454e-9da54b6d3148
 XLMiner Software (Excel Add-in)
 -------------------------------
 
-{{% resource_link "c9794830-f30c-4c5c-9fe8-f9b2b498110d" "Updated Software Version" %}}
+[Updated Software Version](http://www.solver.com/xlminer-data-mining)
 
 XLMiner Tutorial by Romy Shioda ({{% resource_link 8ad86091-9c5e-c4dc-4960-ee8687ebd471 "PDF" %}})
 
